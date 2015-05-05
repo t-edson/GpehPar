@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="GpehPar.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GpehPar"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <FoldState Value=" THg4~G T0pXS3051 T3p606'"/>
+        <UsageCount Value="131"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="gpeh_eri.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GPEH_Eri"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="1" Y="45"/>
+        <UsageCount Value="131"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <TopLine Value="89"/>
+        <CursorPos X="10" Y="107"/>
+        <UsageCount Value="1"/>
+      </Unit2>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="463" Column="1" TopLine="439"/>
+      </Position2>
+      <Position3>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="463" Column="1" TopLine="439"/>
+      </Position4>
+      <Position5>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="50" Column="1" TopLine="50"/>
+      </Position5>
+      <Position6>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="390" Column="21" TopLine="374"/>
+      </Position6>
+      <Position7>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position7>
+      <Position8>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="6" Column="11" TopLine="1"/>
+      </Position8>
+      <Position9>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="38" Column="16" TopLine="7"/>
+      </Position9>
+      <Position10>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="39" Column="18" TopLine="8"/>
+      </Position10>
+      <Position11>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="390" Column="21" TopLine="350"/>
+      </Position11>
+      <Position12>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="437" Column="37" TopLine="406"/>
+      </Position12>
+      <Position13>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="458" Column="32" TopLine="426"/>
+      </Position13>
+      <Position14>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="437" Column="29" TopLine="426"/>
+      </Position14>
+      <Position15>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="39" Column="1" TopLine="39"/>
+      </Position15>
+      <Position16>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="140" Column="21" TopLine="85"/>
+      </Position16>
+      <Position17>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position17>
+      <Position18>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="197" Column="1" TopLine="160"/>
+      </Position18>
+      <Position19>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="408" Column="27" TopLine="390"/>
+      </Position19>
+      <Position20>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position20>
+      <Position21>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="197" Column="1" TopLine="160"/>
+      </Position21>
+      <Position22>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position22>
+      <Position23>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="197" Column="1" TopLine="160"/>
+      </Position23>
+      <Position24>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position24>
+      <Position25>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="197" Column="1" TopLine="160"/>
+      </Position25>
+      <Position26>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position26>
+      <Position27>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="463" Column="1" TopLine="426"/>
+      </Position27>
+      <Position28>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position28>
+      <Position29>
+        <Filename Value="GpehPar.lpr"/>
+        <Caret Line="463" Column="1" TopLine="426"/>
+      </Position29>
+      <Position30>
+        <Filename Value="gpeh_eri.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
