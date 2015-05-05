@@ -8,11 +8,14 @@ Solo decodifica los encabezados de los eventos, no los parámetros.
 Está codificado usando el lenguaje Object Pascal y el entorno de desarrollo Lazarus. Es una aplicación de consola con línea de comandos. Los comandos que soporta son:
 
 -e<evento>, para filtrar un solo evento.
+
 -s, para mostrar los eventos de forma simplificada (Solo el nombre).
 
 Considerar que los archivos bin, contienen información comprimida y al expandirse se multiplica el tamaño de los datos generados.
 
 Un ejemplo de datos generados es este:
+
+```
 
 ScannerID:1
  3:15:04,
@@ -42,5 +45,7 @@ cellID3=16415,8191
 cellID4=261631,8191
 ScannerID:1
 20:45:00,
+```
+
 
 IMPORTANTE: El programa, aún no está verificado lo suficiente, por lo tanto no se garantiza la veracidad de los datos generados.
