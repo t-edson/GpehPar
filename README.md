@@ -1,5 +1,5 @@
 # GpehPar
-Analizador de archivos GPEH (Simple Pascal Gpeh parser)
+Analizador de archivos binarios GPEH (Simple Pascal Gpeh parser)
 
 Este programa es un analizador de archivos binarios GPEH. Explora el contenido binario y lo convierte a texto. Realiza un procesamiento básico, pero puede servir de base para crear analizadores más complejos. 
 
